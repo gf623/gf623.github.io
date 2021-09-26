@@ -1033,3 +1033,5 @@ css: css
 # js: https://cdn.jsdelivr.net/gh/theme-next/hexo-theme-next@${version}/source/js/${file}
 js: js/${file}
 images: images
+
+theme: jekyll-theme-midnight
